@@ -22,28 +22,28 @@ URL del repositorio GitHub:
 
 **Identificación de Estrategias:**
 
-![Identificación de Estrategias 1](Capturas/sistema/IdentificacionEstrategias1.PNG)  
-![Identificación de Estrategias 2](Capturas/sistema/IdentificacionEstrategias2.PNG)
+![Identificación de Estrategias 1](../Capturas/sistema/IdentificacionEstrategias1.PNGCapturas/sistema/IdentificacionEstrategias1.PNG)  
+![Identificación de Estrategias 2](../Capturas/sistema/IdentificacionEstrategias2.PNG)
 
 **Matriz CAME:**
 
-![Matriz CAME](sistema/matrizcame1.PNG)
+![Matriz CAME](../Capturas/sistema/matrizcame1.PNG)
 
 **Controladores y Vistas:**
 - Controlador Identificación Estrategias  
-![Controlador IE](Capturas/Codigo/controladorIE.PNG)  
+![Controlador IE](../Capturas/Codigo/controladorIE.PNG)  
 - Controlador Matriz CAME  
-![Controlador CAME](Capturas/Codigo/controladorMCAME.PNG)  
+![Controlador CAME](../Capturas/Codigo/controladorMCAME.PNG)  
 - Vista Estrategias  
-![Vista IE](Capturas/Codigo/vistaIE.PNG)  
+![Vista IE](../Capturas/Codigo/vistaIE.PNG)  
 - Modelo Identificación Estrategias 
-![Modelo IE](Capturas/Codigo/modeloIE.PNG)
+![Modelo IE](../Capturas/Codigo/modeloIE.PNG)
 
 **Base de Datos:**
 - Tabla IdentificaciónEstrategias 
-![BD IE](Capturas/BD/identificacionEstrategias.PNG)  
+![BD IE](../Capturas/BD/identificacionEstrategias.PNG)  
 - Tabla MatrizCAME
-![BD CAME](Capturas/BD/matrizcame.PNG)
+![BD CAME](../Capturas/BD/matrizcame.PNG)
 
 ## Descripción
 
