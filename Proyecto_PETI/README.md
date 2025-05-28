@@ -22,23 +22,28 @@ URL del repositorio GitHub:
 
 **Identificación de Estrategias:**
 
-![Identificación de Estrategias 1](sistema/IdentificacionEstrategias1.PNG)  
-![Identificación de Estrategias 2](sistema/IdentificacionEstrategias2.PNG)
+![Identificación de Estrategias 1](Capturas/sistema/IdentificacionEstrategias1.PNG)  
+![Identificación de Estrategias 2](Capturas/sistema/IdentificacionEstrategias2.PNG)
 
 **Matriz CAME:**
 
 ![Matriz CAME](sistema/matrizcame1.PNG)
 
 **Controladores y Vistas:**
-
-![Controlador IE](Codigo/controladorIE.PNG)  
-![Controlador CAME](Codigo/controladorMCAME.PNG)  
-![Vista IE](Codigo/vistaIE.PNG)  
-![Modelo IE](Codigo/modeloIE.PNG)
+- Controlador Identificación Estrategias  
+![Controlador IE](Capturas/Codigo/controladorIE.PNG)  
+- Controlador Matriz CAME  
+![Controlador CAME](Capturas/Codigo/controladorMCAME.PNG)  
+- Vista Estrategias  
+![Vista IE](Capturas/Codigo/vistaIE.PNG)  
+- Modelo Identificación Estrategias 
+![Modelo IE](Capturas/Codigo/modeloIE.PNG)
 
 **Base de Datos:**
-![Bd IE](BD/identificacionEstrategias.PNG)  
-![Bd IE](BD/matrizcame.PNG)
+- Tabla IdentificaciónEstrategias 
+![BD IE](Capturas/BD/identificacionEstrategias.PNG)  
+- Tabla MatrizCAME
+![BD CAME](Capturas/BD/matrizcame.PNG)
 
 ## Descripción
 
